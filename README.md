@@ -1,2 +1,2 @@
-# dibs
-Dynamical Integration of BatcheS
+# DIBS
+**D**ynamical **I**ntegration of **B**atche**S**
